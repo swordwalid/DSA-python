@@ -24,8 +24,13 @@ This folder contains Python implementations of **Singly and Doubly Linked Lists*
 1. Clone this repository:  
    git clone https://github.com/swordwalid/DSA-python
 2. Navigate to the LinkedList folder to explore the code:
+   ```
    cd DSA-python/LinkedList
+   ```
+   
 ## Usage
+```yaml
+
 You can test the code by running the Python files directly or by using the provided Jupyter Notebook to interactively experiment with the linked list operations.
 
 ---
@@ -33,3 +38,5 @@ You can test the code by running the Python files directly or by using the provi
 Feel free to fork, experiment, and contribute!
 
 Happy Coding! 😃
+
+```
